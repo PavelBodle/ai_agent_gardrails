@@ -1,0 +1,301 @@
+row_id,order_id,order_date,ship_mode,customer_name,segment,city,state,country,region,category,sub_category,product_name,sales,quantity,discount,profit
+1,US-2021-100001,2021-08-12,Standard Class,Alejandro Grove,Home Office,Los Angeles,California,United States,West,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,5799.21,11,0.0,-774.84
+2,US-2021-100002,2021-12-15,Same Day,Claire Gute,Home Office,Baltimore,Maryland,United States,East,Technology,Accessories,Belkin USB Cable,2805.41,4,0.0,656.4
+3,US-2022-100003,2022-07-04,Same Day,Priya Sharma,Consumer,Houston,Texas,United States,Central,Office Supplies,Binders,Avery Durable Slant Binders,70.84,2,0.0,17.81
+4,US-2023-100004,2023-06-07,Second Class,Tamara Chand,Consumer,Phoenix,Arizona,United States,West,Office Supplies,Pens,Staple-based Ink Pen Set,1126.83,12,0.0,361.06
+5,US-2021-100005,2021-06-25,First Class,Nora Preis,Corporate,Phoenix,Arizona,United States,West,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,2122.71,6,0.0,392.75
+6,US-2021-100006,2021-03-09,First Class,Elpida Pitt,Corporate,Philadelphia,Pennsylvania,United States,East,Office Supplies,Pens,SAFCO Velcro Fastener,1393.1,14,0.3,98.41
+7,US-2022-100007,2022-03-15,Same Day,Ken Black,Home Office,Baltimore,Maryland,United States,East,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",846.7,3,0.2,220.87
+8,US-2022-100008,2022-01-30,Standard Class,Andrew Allen,Consumer,Memphis,Tennessee,United States,South,Technology,Copiers,Canon imageCLASS MF8580Cdw,2925.88,14,0.4,520.88
+9,US-2022-100009,2022-03-22,Standard Class,Maria Bertelson,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Labels,Avery 494 Gold Seal Labels,1027.28,11,0.3,-91.06
+10,US-2023-100010,2023-02-20,Standard Class,Wikus van de Merwe,Consumer,Jacksonville,Florida,United States,East,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,13393.59,14,0.1,-883.15
+11,US-2021-100011,2021-09-04,Standard Class,Elena Petrov,Home Office,Baltimore,Maryland,United States,East,Furniture,Bookcases,Bush Westfield Collection Bookcase,1601.1,2,0.2,-29.3
+12,US-2023-100012,2023-02-13,Same Day,Seth Vernon,Home Office,Los Angeles,California,United States,West,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,4614.23,9,0.1,1665.29
+13,US-2021-100013,2021-01-08,Same Day,Kunst Miller,Corporate,Boston,Massachusetts,United States,East,Technology,Machines,HP LaserJet 600 M602 Printer,818.93,2,0.1,142.2
+14,US-2022-100014,2022-04-30,Second Class,Sean O'Donnell,Consumer,Los Angeles,California,United States,West,Furniture,Bookcases,Sauder Classic Bookcase,1278.37,5,0.5,-20.9
+15,US-2023-100015,2023-01-16,Same Day,Brosina Hoffman,Consumer,Nashville,Tennessee,United States,South,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,5090.3,7,0.0,-593.85
+16,US-2023-100016,2023-05-27,Same Day,Harold Pawlan,Consumer,Chicago,Illinois,United States,Central,Furniture,Furnishings,Eldon Expressions Desk Accessories,854.52,3,0.5,251.58
+17,US-2021-100017,2021-01-03,Second Class,Tamara Chand,Home Office,Los Angeles,California,United States,West,Furniture,Chairs,Hon 5400 Series Task Chair,1786.91,7,0.0,-106.23
+18,US-2021-100018,2021-02-28,Second Class,Zuschuss Donatelli,Corporate,Memphis,Tennessee,United States,South,Office Supplies,Pens,Staple-based Ink Pen Set,286.42,4,0.0,74.87
+19,US-2023-100019,2023-08-23,Standard Class,Maria Bertelson,Corporate,Denver,Colorado,United States,West,Technology,Accessories,Logitech MX Master Mouse,4472.25,14,0.1,322.34
+20,US-2022-100020,2022-10-23,First Class,Darrin Van Huff,Home Office,Baltimore,Maryland,United States,East,Technology,Phones,Motorola Edge 5G,1730.88,5,0.4,-135.04
+21,US-2023-100021,2023-06-20,Standard Class,Elena Petrov,Corporate,Detroit,Michigan,United States,Central,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,989.65,2,0.3,331.01
+22,US-2023-100022,2023-07-01,Standard Class,Irene Maddox,Corporate,Boston,Massachusetts,United States,East,Office Supplies,Labels,Avery 496 Brown Kraft Labels,894.19,11,0.0,-4.06
+23,US-2023-100023,2023-05-17,First Class,Alejandro Grove,Consumer,Denver,Colorado,United States,West,Office Supplies,Labels,Avery 494 Gold Seal Labels,252.49,4,0.2,87.85
+24,US-2022-100024,2022-03-14,First Class,Lela Donovan,Home Office,Los Angeles,California,United States,West,Office Supplies,Binders,Avery Durable Slant Binders,306.57,13,0.5,47.04
+25,US-2023-100025,2023-07-10,Standard Class,Ravi Kumar,Consumer,Los Angeles,California,United States,West,Technology,Accessories,Belkin USB Cable,8195.08,14,0.0,160.15
+26,US-2023-100026,2023-04-11,Same Day,Kunst Miller,Consumer,San Francisco,California,United States,West,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,8391.26,10,0.0,3246.69
+27,US-2021-100027,2021-08-16,Second Class,Irene Maddox,Consumer,Jacksonville,Florida,United States,East,Technology,Machines,HP LaserJet 600 M602 Printer,1404.18,5,0.0,452.46
+28,US-2022-100028,2022-06-06,Second Class,Zuschuss Donatelli,Corporate,Jacksonville,Florida,United States,East,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,5521.39,7,0.2,238.14
+29,US-2022-100029,2022-06-08,First Class,Claire Gute,Corporate,Charlotte,North Carolina,United States,South,Furniture,Bookcases,Sauder Classic Bookcase,436.34,1,0.3,39.28
+30,US-2021-100030,2021-03-13,Same Day,Harold Pawlan,Home Office,Phoenix,Arizona,United States,West,Office Supplies,Binders,Ibico Multi-Punch,83.99,1,0.1,4.23
+31,US-2022-100031,2022-11-12,First Class,Kunst Miller,Corporate,Columbus,Ohio,United States,Central,Furniture,Bookcases,O'Sullivan Plantations Bookcase,4509.65,11,0.0,-200.63
+32,US-2022-100032,2022-03-29,Standard Class,Raymond Buch,Home Office,Nashville,Tennessee,United States,South,Office Supplies,Appliances,Fellowes PB500 Electric Punch,358.49,5,0.3,37.91
+33,US-2021-100033,2021-08-19,Standard Class,Aisha Patel,Corporate,Baltimore,Maryland,United States,East,Technology,Accessories,Belkin USB Cable,3987.03,5,0.1,877.3
+34,US-2021-100034,2021-09-07,Same Day,Darrin Van Huff,Consumer,Philadelphia,Pennsylvania,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,3864.35,7,0.4,471.09
+35,US-2022-100035,2022-11-15,Same Day,Priya Sharma,Consumer,New York City,New York,United States,East,Office Supplies,Paper,Hammermill Copy Plus Paper,18.96,1,0.0,5.51
+36,US-2022-100036,2022-06-18,Second Class,Mohammed Al-Hassan,Home Office,Detroit,Michigan,United States,Central,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,15590.01,12,0.2,4227.97
+37,US-2021-100037,2021-06-06,First Class,Nora Preis,Corporate,Nashville,Tennessee,United States,South,Furniture,Bookcases,Sauder Classic Bookcase,3137.55,6,0.1,190.35
+38,US-2023-100038,2023-02-23,Same Day,Lela Donovan,Corporate,New York City,New York,United States,East,Office Supplies,Labels,Avery 496 Brown Kraft Labels,109.06,1,0.0,35.03
+39,US-2023-100039,2023-03-29,Second Class,Sanjit Engle,Consumer,New Orleans,Louisiana,United States,South,Office Supplies,Appliances,GBC DocuBind TL200 Binding,66.7,8,0.3,14.53
+40,US-2021-100040,2021-12-02,Standard Class,Elena Petrov,Corporate,Nashville,Tennessee,United States,South,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,382.55,2,0.0,-2.64
+41,US-2021-100041,2021-03-12,First Class,Ken Black,Corporate,Jacksonville,Florida,United States,East,Office Supplies,Storage,"Fiskars 8"" Non-Stick Softgrip",938.46,14,0.3,-25.04
+42,US-2021-100042,2021-06-21,Second Class,Harold Pawlan,Consumer,Los Angeles,California,United States,West,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,4339.64,8,0.2,1179.49
+43,US-2023-100043,2023-03-03,Same Day,Brosina Hoffman,Corporate,Seattle,Washington,United States,West,Technology,Phones,Apple iPhone 12,9905.93,7,0.1,-930.7
+44,US-2021-100044,2021-04-19,Same Day,Aisha Patel,Consumer,Columbus,Ohio,United States,Central,Technology,Phones,Apple iPhone 12,6460.61,11,0.4,1952.93
+45,US-2023-100045,2023-04-26,Same Day,Ravi Kumar,Home Office,Memphis,Tennessee,United States,South,Office Supplies,Pens,SAFCO Velcro Fastener,108.18,3,0.5,11.43
+46,US-2021-100046,2021-11-29,Second Class,Mohammed Al-Hassan,Consumer,Dallas,Texas,United States,Central,Furniture,Bookcases,Bush Westfield Collection Bookcase,7546.14,13,0.0,919.64
+47,US-2023-100047,2023-02-16,First Class,Sanjit Engle,Consumer,Jacksonville,Florida,United States,East,Office Supplies,Storage,"Fiskars 8"" Non-Stick Softgrip",133.61,9,0.4,15.86
+48,US-2022-100048,2022-06-28,Standard Class,Odella Nelson,Home Office,Jacksonville,Florida,United States,East,Office Supplies,Appliances,Belkin 8-Outlet Surge Suppressor,201.07,5,0.3,22.18
+49,US-2022-100049,2022-07-03,Same Day,Tamara Chand,Home Office,Detroit,Michigan,United States,Central,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,439.74,5,0.3,-37.05
+50,US-2022-100050,2022-07-01,First Class,Wikus van de Merwe,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,93.0,2,0.2,-13.23
+51,US-2023-100051,2023-09-16,Same Day,Darrin Van Huff,Consumer,Boston,Massachusetts,United States,East,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,2630.89,2,0.5,98.36
+52,US-2021-100052,2021-09-12,Standard Class,Brosina Hoffman,Corporate,San Francisco,California,United States,West,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",1239.59,10,0.2,-127.86
+53,US-2022-100053,2022-09-28,Same Day,Hunter Lopez,Corporate,Denver,Colorado,United States,West,Technology,Accessories,Belkin USB Cable,10938.65,8,0.4,196.45
+54,US-2022-100054,2022-09-01,Standard Class,Brosina Hoffman,Home Office,Denver,Colorado,United States,West,Furniture,Tables,Bevis Steel Folding Table,1597.9,3,0.4,156.24
+55,US-2022-100055,2022-07-12,Same Day,Pete Kriz,Consumer,Memphis,Tennessee,United States,South,Office Supplies,Pens,Staple-based Ink Pen Set,191.2,2,0.1,16.03
+56,US-2022-100056,2022-04-25,Second Class,Mohammed Al-Hassan,Corporate,Philadelphia,Pennsylvania,United States,East,Furniture,Chairs,Hon 5400 Series Task Chair,9023.89,13,0.2,826.0
+57,US-2021-100057,2021-08-23,Standard Class,Maria Bertelson,Corporate,Detroit,Michigan,United States,Central,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,1077.98,10,0.2,-146.36
+58,US-2022-100058,2022-02-23,First Class,Darrin Van Huff,Home Office,San Francisco,California,United States,West,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",1312.28,3,0.0,142.39
+59,US-2021-100059,2021-11-19,Same Day,Brosina Hoffman,Home Office,Dallas,Texas,United States,Central,Furniture,Bookcases,Bush Westfield Collection Bookcase,2041.85,5,0.0,204.5
+60,US-2023-100060,2023-02-18,Same Day,Priya Sharma,Consumer,Dallas,Texas,United States,Central,Office Supplies,Labels,Avery 494 Gold Seal Labels,536.22,7,0.5,104.01
+61,US-2021-100061,2021-01-15,Same Day,Tamara Chand,Corporate,Seattle,Washington,United States,West,Furniture,Bookcases,Bush Westfield Collection Bookcase,1193.24,2,0.0,24.95
+62,US-2022-100062,2022-04-29,Second Class,Mohammed Al-Hassan,Consumer,Atlanta,Georgia,United States,South,Furniture,Furnishings,Eldon Expressions Desk Accessories,2554.61,8,0.4,789.63
+63,US-2022-100063,2022-06-04,Second Class,Andrew Allen,Home Office,Jacksonville,Florida,United States,East,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,1445.6,14,0.3,525.96
+64,US-2021-100064,2021-11-26,Second Class,Wikus van de Merwe,Corporate,Chicago,Illinois,United States,Central,Office Supplies,Labels,Avery 496 Brown Kraft Labels,547.76,8,0.4,55.02
+65,US-2021-100065,2021-02-07,First Class,Elpida Pitt,Home Office,Philadelphia,Pennsylvania,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,9948.15,12,0.0,1217.96
+66,US-2023-100066,2023-03-12,Same Day,Ken Black,Home Office,Baltimore,Maryland,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,416.18,1,0.0,-45.3
+67,US-2021-100067,2021-02-06,First Class,Odella Nelson,Home Office,Dallas,Texas,United States,Central,Office Supplies,Pens,SAFCO Velcro Fastener,1606.16,14,0.5,529.73
+68,US-2022-100068,2022-12-12,Standard Class,Kunst Miller,Home Office,Seattle,Washington,United States,West,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,601.63,7,0.0,56.57
+69,US-2021-100069,2021-03-22,First Class,Ken Black,Consumer,Chicago,Illinois,United States,Central,Furniture,Bookcases,Bush Westfield Collection Bookcase,3608.89,7,0.0,-203.93
+70,US-2022-100070,2022-11-25,Second Class,Pete Kriz,Home Office,Charlotte,North Carolina,United States,South,Office Supplies,Labels,Avery 494 Gold Seal Labels,653.49,8,0.5,225.89
+71,US-2022-100071,2022-01-26,First Class,Sanjit Engle,Corporate,New York City,New York,United States,East,Technology,Machines,HP LaserJet 600 M602 Printer,10205.53,8,0.5,-932.18
+72,US-2023-100072,2023-02-03,Same Day,Odella Nelson,Corporate,Columbus,Ohio,United States,Central,Office Supplies,Binders,Ibico Multi-Punch,472.53,5,0.0,165.78
+73,US-2023-100073,2023-07-15,Second Class,Hunter Lopez,Consumer,Memphis,Tennessee,United States,South,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,932.59,10,0.0,182.36
+74,US-2023-100074,2023-07-25,Standard Class,Darrin Van Huff,Corporate,San Francisco,California,United States,West,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,2618.71,5,0.3,371.78
+75,US-2023-100075,2023-01-12,First Class,Elena Petrov,Corporate,Houston,Texas,United States,Central,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,275.43,13,0.1,88.99
+76,US-2023-100076,2023-08-21,Standard Class,Sean O'Donnell,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Binders,Cardinal Slant-D Ring Binder,281.19,8,0.4,85.01
+77,US-2021-100077,2021-04-30,First Class,Pete Kriz,Home Office,Chicago,Illinois,United States,Central,Office Supplies,Binders,Ibico Multi-Punch,997.43,10,0.2,206.55
+78,US-2023-100078,2023-01-15,Second Class,Zuschuss Donatelli,Consumer,New York City,New York,United States,East,Office Supplies,Binders,Avery Durable Slant Binders,738.95,9,0.4,127.87
+79,US-2021-100079,2021-04-12,First Class,Brosina Hoffman,Home Office,Jacksonville,Florida,United States,East,Office Supplies,Labels,Avery 496 Brown Kraft Labels,56.14,1,0.1,17.99
+80,US-2022-100080,2022-09-04,Second Class,Sanjit Engle,Home Office,Columbus,Ohio,United States,Central,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",1511.67,2,0.1,306.77
+81,US-2022-100081,2022-09-03,Second Class,Pete Kriz,Corporate,Los Angeles,California,United States,West,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,7931.5,10,0.0,2250.6
+82,US-2021-100082,2021-01-17,Standard Class,Andrew Allen,Consumer,San Francisco,California,United States,West,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,14369.84,11,0.1,2498.47
+83,US-2023-100083,2023-08-27,Standard Class,Andrew Allen,Consumer,Boston,Massachusetts,United States,East,Technology,Copiers,Canon imageCLASS MF8580Cdw,5599.99,8,0.5,711.82
+84,US-2021-100084,2021-03-24,Same Day,Nora Preis,Corporate,Denver,Colorado,United States,West,Technology,Phones,Samsung Galaxy S8,8852.83,14,0.5,-970.09
+85,US-2022-100085,2022-12-20,First Class,Sean O'Donnell,Consumer,Columbus,Ohio,United States,Central,Furniture,Bookcases,O'Sullivan Plantations Bookcase,3605.4,7,0.4,-344.14
+86,US-2021-100086,2021-11-17,Second Class,Fatima Chen,Home Office,Denver,Colorado,United States,West,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",3163.08,7,0.0,69.28
+87,US-2022-100087,2022-08-24,Standard Class,Kunst Miller,Consumer,Dallas,Texas,United States,Central,Office Supplies,Binders,Avery Durable Slant Binders,95.71,2,0.0,14.93
+88,US-2021-100088,2021-08-18,First Class,Sanjit Engle,Corporate,Chicago,Illinois,United States,Central,Technology,Copiers,Canon imageCLASS MF8580Cdw,5030.51,10,0.0,1062.47
+89,US-2022-100089,2022-11-05,Second Class,Sanjit Engle,Home Office,San Francisco,California,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,7019.89,13,0.0,1298.31
+90,US-2022-100090,2022-10-11,First Class,Alejandro Grove,Consumer,Chicago,Illinois,United States,Central,Technology,Machines,HP LaserJet 600 M602 Printer,313.04,1,0.0,-22.53
+91,US-2021-100091,2021-06-09,Same Day,Maria Bertelson,Home Office,Los Angeles,California,United States,West,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",2013.26,6,0.0,676.13
+92,US-2021-100092,2021-04-24,Same Day,Kunst Miller,Consumer,Baltimore,Maryland,United States,East,Furniture,Bookcases,Bush Westfield Collection Bookcase,3357.05,8,0.0,133.76
+93,US-2023-100093,2023-02-22,Second Class,Maria Bertelson,Corporate,Columbus,Ohio,United States,Central,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,10342.12,7,0.1,2813.49
+94,US-2023-100094,2023-06-02,Second Class,Brosina Hoffman,Corporate,Dallas,Texas,United States,Central,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",1971.03,3,0.3,-217.52
+95,US-2021-100095,2021-11-29,Same Day,Nora Preis,Consumer,Phoenix,Arizona,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,6049.16,10,0.4,-837.98
+96,US-2021-100096,2021-11-14,Same Day,Mohammed Al-Hassan,Corporate,Baltimore,Maryland,United States,East,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,2849.02,14,0.0,192.8
+97,US-2021-100097,2021-05-30,Standard Class,Priya Sharma,Corporate,Houston,Texas,United States,Central,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,7405.71,9,0.0,-148.5
+98,US-2022-100098,2022-10-05,Same Day,Hunter Lopez,Consumer,Houston,Texas,United States,Central,Furniture,Chairs,Hon 5400 Series Task Chair,5624.79,8,0.3,1829.95
+99,US-2021-100099,2021-02-08,First Class,Sean O'Donnell,Corporate,Houston,Texas,United States,Central,Office Supplies,Appliances,Fellowes PB500 Electric Punch,823.47,13,0.2,85.61
+100,US-2022-100100,2022-08-09,Same Day,Sean O'Donnell,Corporate,San Francisco,California,United States,West,Technology,Phones,Motorola Edge 5G,8537.59,10,0.5,2987.96
+101,US-2021-100101,2021-06-26,Same Day,Seth Vernon,Home Office,Boston,Massachusetts,United States,East,Technology,Accessories,Logitech MX Master Mouse,2451.8,2,0.0,312.61
+102,US-2022-100102,2022-10-25,First Class,Nora Preis,Home Office,Seattle,Washington,United States,West,Office Supplies,Labels,Avery 494 Gold Seal Labels,564.38,6,0.0,160.33
+103,US-2022-100103,2022-08-20,First Class,Brosina Hoffman,Corporate,Chicago,Illinois,United States,Central,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,15417.25,12,0.0,514.15
+104,US-2023-100104,2023-04-29,Standard Class,Andy Reiter,Corporate,Boston,Massachusetts,United States,East,Technology,Copiers,Canon imageCLASS MF8580Cdw,4302.19,5,0.0,940.3
+105,US-2021-100105,2021-10-30,Second Class,Sanjit Engle,Home Office,Phoenix,Arizona,United States,West,Furniture,Bookcases,Bush Westfield Collection Bookcase,2832.99,4,0.0,-183.52
+106,US-2021-100106,2021-02-14,Second Class,Mohammed Al-Hassan,Home Office,Denver,Colorado,United States,West,Technology,Phones,Apple iPhone 12,5962.44,10,0.0,1470.64
+107,US-2021-100107,2021-07-18,Same Day,Wikus van de Merwe,Home Office,Memphis,Tennessee,United States,South,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",1335.05,4,0.5,463.51
+108,US-2022-100108,2022-05-08,Same Day,Nora Preis,Corporate,Columbus,Ohio,United States,Central,Office Supplies,Appliances,Fellowes PB500 Electric Punch,62.75,3,0.2,-7.61
+109,US-2023-100109,2023-07-22,Standard Class,Odella Nelson,Consumer,Columbus,Ohio,United States,Central,Technology,Phones,Apple iPhone 12,3671.89,13,0.4,-365.56
+110,US-2023-100110,2023-08-12,Same Day,Elena Petrov,Corporate,Jacksonville,Florida,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,3569.91,9,0.1,-480.14
+111,US-2021-100111,2021-08-09,Second Class,Andrew Allen,Consumer,San Francisco,California,United States,West,Furniture,Bookcases,Bush Westfield Collection Bookcase,5822.09,13,0.0,-812.46
+112,US-2023-100112,2023-05-07,First Class,Hunter Lopez,Home Office,Baltimore,Maryland,United States,East,Technology,Copiers,Canon imageCLASS MF8580Cdw,1946.68,4,0.5,-224.76
+113,US-2022-100113,2022-11-16,Second Class,Claire Gute,Home Office,Charlotte,North Carolina,United States,South,Technology,Accessories,Belkin USB Cable,3361.98,5,0.4,-157.94
+114,US-2021-100114,2021-03-11,Same Day,Sean O'Donnell,Corporate,Denver,Colorado,United States,West,Technology,Phones,Motorola Edge 5G,971.72,1,0.0,45.09
+115,US-2022-100115,2022-05-06,Second Class,Kunst Miller,Home Office,Houston,Texas,United States,Central,Technology,Phones,Apple iPhone 12,560.83,1,0.5,218.42
+116,US-2023-100116,2023-04-15,Second Class,Odella Nelson,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Binders,Cardinal Slant-D Ring Binder,41.29,1,0.2,5.51
+117,US-2022-100117,2022-03-24,First Class,Priya Sharma,Consumer,Memphis,Tennessee,United States,South,Technology,Accessories,Anker USB-C Hub,16551.08,14,0.0,4793.83
+118,US-2023-100118,2023-04-23,First Class,Ken Black,Corporate,New Orleans,Louisiana,United States,South,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",9580.24,13,0.0,831.89
+119,US-2021-100119,2021-02-13,First Class,Ken Black,Corporate,Baltimore,Maryland,United States,East,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,3342.42,5,0.5,144.9
+120,US-2022-100120,2022-09-15,Same Day,Alejandro Grove,Corporate,Columbus,Ohio,United States,Central,Technology,Phones,Samsung Galaxy S8,4763.85,6,0.0,-340.48
+121,US-2023-100121,2023-02-21,Same Day,Sean O'Donnell,Consumer,Atlanta,Georgia,United States,South,Furniture,Bookcases,Bush Westfield Collection Bookcase,2058.19,10,0.3,112.39
+122,US-2021-100122,2021-05-01,First Class,Maria Bertelson,Consumer,Denver,Colorado,United States,West,Office Supplies,Appliances,GBC DocuBind TL200 Binding,105.58,4,0.4,37.21
+123,US-2023-100123,2023-04-10,Same Day,Nora Preis,Home Office,Dallas,Texas,United States,Central,Furniture,Bookcases,O'Sullivan Plantations Bookcase,3117.27,4,0.5,1242.21
+124,US-2021-100124,2021-05-05,Second Class,Sean O'Donnell,Home Office,Dallas,Texas,United States,Central,Technology,Machines,HP LaserJet 600 M602 Printer,12946.41,12,0.3,1680.65
+125,US-2022-100125,2022-02-12,First Class,Aisha Patel,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Binders,Cardinal Slant-D Ring Binder,602.99,8,0.0,-68.64
+126,US-2023-100126,2023-04-29,Second Class,Priya Sharma,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Labels,Avery 494 Gold Seal Labels,499.28,6,0.3,-39.65
+127,US-2022-100127,2022-06-16,Second Class,Maria Bertelson,Corporate,Philadelphia,Pennsylvania,United States,East,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,1722.91,5,0.3,639.4
+128,US-2022-100128,2022-10-02,First Class,Harold Pawlan,Corporate,Chicago,Illinois,United States,Central,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,8235.43,10,0.0,-459.86
+129,US-2022-100129,2022-10-05,First Class,Mohammed Al-Hassan,Consumer,Columbus,Ohio,United States,Central,Furniture,Chairs,Hon 5400 Series Task Chair,6040.68,11,0.0,748.57
+130,US-2022-100130,2022-09-14,Same Day,Pete Kriz,Corporate,Dallas,Texas,United States,Central,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2096.98,2,0.5,-79.24
+131,US-2022-100131,2022-04-06,Second Class,Ken Black,Home Office,Boston,Massachusetts,United States,East,Technology,Machines,HP LaserJet 600 M602 Printer,7634.68,13,0.5,-630.72
+132,US-2021-100132,2021-06-13,Same Day,Darrin Van Huff,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Appliances,Fellowes PB500 Electric Punch,394.2,4,0.3,-17.97
+133,US-2021-100133,2021-10-16,Standard Class,Seth Vernon,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Appliances,Belkin 8-Outlet Surge Suppressor,208.19,7,0.3,-25.66
+134,US-2022-100134,2022-01-10,Standard Class,Kunst Miller,Home Office,Charlotte,North Carolina,United States,South,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,495.8,14,0.3,133.93
+135,US-2021-100135,2021-04-10,First Class,Raymond Buch,Consumer,Phoenix,Arizona,United States,West,Technology,Accessories,Anker USB-C Hub,1220.41,2,0.0,-96.7
+136,US-2021-100136,2021-06-02,Same Day,Tamara Chand,Corporate,Memphis,Tennessee,United States,South,Office Supplies,Paper,Hammermill Copy Plus Paper,783.57,9,0.5,106.28
+137,US-2021-100137,2021-01-18,First Class,Ken Black,Home Office,Boston,Massachusetts,United States,East,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",4648.67,9,0.2,516.89
+138,US-2022-100138,2022-08-21,Standard Class,Brosina Hoffman,Home Office,Dallas,Texas,United States,Central,Office Supplies,Labels,Avery 496 Brown Kraft Labels,950.34,10,0.1,234.52
+139,US-2021-100139,2021-06-05,Second Class,Andy Reiter,Home Office,Nashville,Tennessee,United States,South,Technology,Copiers,Canon imageCLASS MF8580Cdw,880.23,1,0.5,19.83
+140,US-2021-100140,2021-06-27,Second Class,Maria Bertelson,Corporate,Nashville,Tennessee,United States,South,Technology,Copiers,Canon imageCLASS MF8580Cdw,3155.81,9,0.4,71.21
+141,US-2022-100141,2022-12-23,Same Day,Tamara Chand,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Pens,Staple-based Ink Pen Set,157.31,4,0.2,43.13
+142,US-2023-100142,2023-09-05,First Class,Seth Vernon,Corporate,Jacksonville,Florida,United States,East,Office Supplies,Labels,Avery 496 Brown Kraft Labels,216.02,2,0.4,64.83
+143,US-2022-100143,2022-12-14,Same Day,Zuschuss Donatelli,Consumer,Boston,Massachusetts,United States,East,Technology,Phones,Apple iPhone 12,4640.28,11,0.2,1685.18
+144,US-2023-100144,2023-01-05,Standard Class,Hunter Lopez,Consumer,Houston,Texas,United States,Central,Technology,Accessories,Logitech MX Master Mouse,14987.69,11,0.0,1158.78
+145,US-2021-100145,2021-10-22,Second Class,Priya Sharma,Home Office,Atlanta,Georgia,United States,South,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,5614.92,7,0.1,1492.17
+146,US-2022-100146,2022-02-11,Standard Class,Darrin Van Huff,Home Office,Dallas,Texas,United States,Central,Furniture,Tables,Iceberg Nesting Folding Table,2300.51,3,0.0,916.63
+147,US-2022-100147,2022-07-11,First Class,Fatima Chen,Home Office,Nashville,Tennessee,United States,South,Office Supplies,Binders,Avery Durable Slant Binders,435.3,10,0.5,171.51
+148,US-2023-100148,2023-03-21,First Class,Nora Preis,Home Office,Nashville,Tennessee,United States,South,Office Supplies,Paper,Hammermill Copy Plus Paper,262.92,3,0.0,67.08
+149,US-2021-100149,2021-05-24,Same Day,Priya Sharma,Home Office,Columbus,Ohio,United States,Central,Furniture,Tables,Iceberg Nesting Folding Table,4884.6,14,0.0,-236.27
+150,US-2022-100150,2022-01-04,Same Day,Claire Gute,Consumer,Memphis,Tennessee,United States,South,Office Supplies,Appliances,Belkin 8-Outlet Surge Suppressor,935.78,13,0.0,-5.75
+151,US-2022-100151,2022-10-17,Same Day,Brosina Hoffman,Home Office,New York City,New York,United States,East,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,945.0,11,0.2,217.03
+152,US-2023-100152,2023-04-02,Second Class,Pete Kriz,Home Office,Dallas,Texas,United States,Central,Furniture,Tables,Bevis Steel Folding Table,4613.65,8,0.5,1229.74
+153,US-2021-100153,2021-06-03,First Class,Priya Sharma,Home Office,Philadelphia,Pennsylvania,United States,East,Technology,Phones,Motorola Edge 5G,2760.01,2,0.1,455.36
+154,US-2022-100154,2022-04-13,Same Day,Nora Preis,Home Office,Boston,Massachusetts,United States,East,Furniture,Tables,Iceberg Nesting Folding Table,890.59,2,0.0,117.81
+155,US-2022-100155,2022-12-19,Same Day,Kunst Miller,Corporate,Denver,Colorado,United States,West,Office Supplies,Pens,SAFCO Velcro Fastener,357.53,5,0.0,29.69
+156,US-2023-100156,2023-07-02,First Class,Elena Petrov,Consumer,Denver,Colorado,United States,West,Furniture,Furnishings,Eldon Expressions Desk Accessories,1337.36,7,0.4,74.83
+157,US-2023-100157,2023-02-14,First Class,Elpida Pitt,Corporate,New Orleans,Louisiana,United States,South,Furniture,Tables,Iceberg Nesting Folding Table,1041.1,2,0.1,321.86
+158,US-2022-100158,2022-11-08,Second Class,Kunst Miller,Corporate,San Francisco,California,United States,West,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,2871.63,4,0.0,-379.86
+159,US-2021-100159,2021-08-28,Standard Class,Pete Kriz,Consumer,Charlotte,North Carolina,United States,South,Furniture,Chairs,Hon 5400 Series Task Chair,5253.56,8,0.0,374.29
+160,US-2022-100160,2022-11-08,First Class,Maria Bertelson,Consumer,New York City,New York,United States,East,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,418.76,10,0.2,139.0
+161,US-2021-100161,2021-11-23,Same Day,Alejandro Grove,Corporate,Jacksonville,Florida,United States,East,Furniture,Tables,Iceberg Nesting Folding Table,7895.5,9,0.4,2228.05
+162,US-2022-100162,2022-07-30,Same Day,Zuschuss Donatelli,Consumer,New Orleans,Louisiana,United States,South,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,345.49,4,0.5,122.0
+163,US-2023-100163,2023-01-12,First Class,Maria Bertelson,Home Office,New Orleans,Louisiana,United States,South,Furniture,Furnishings,Eldon Expressions Desk Accessories,579.35,4,0.3,-57.44
+164,US-2023-100164,2023-07-18,Second Class,Elpida Pitt,Corporate,New York City,New York,United States,East,Technology,Phones,Samsung Galaxy S8,15007.98,13,0.5,-526.95
+165,US-2023-100165,2023-03-06,Same Day,Harold Pawlan,Consumer,Dallas,Texas,United States,Central,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,2628.36,4,0.1,403.83
+166,US-2021-100166,2021-11-24,First Class,Tamara Chand,Corporate,Detroit,Michigan,United States,Central,Technology,Machines,HP LaserJet 600 M602 Printer,4761.5,6,0.5,1280.35
+167,US-2021-100167,2021-07-20,Second Class,Lela Donovan,Corporate,Boston,Massachusetts,United States,East,Furniture,Tables,Iceberg Nesting Folding Table,846.5,1,0.4,10.46
+168,US-2023-100168,2023-01-21,First Class,Raymond Buch,Corporate,Houston,Texas,United States,Central,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",11342.98,13,0.5,1173.5
+169,US-2022-100169,2022-02-27,Standard Class,Wikus van de Merwe,Consumer,Houston,Texas,United States,Central,Technology,Copiers,Canon imageCLASS MF8580Cdw,891.4,9,0.0,241.02
+170,US-2021-100170,2021-01-17,Same Day,Odella Nelson,Consumer,Philadelphia,Pennsylvania,United States,East,Furniture,Chairs,Hon 5400 Series Task Chair,3617.62,6,0.5,769.13
+171,US-2023-100171,2023-07-21,First Class,Lela Donovan,Home Office,Denver,Colorado,United States,West,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,846.51,9,0.4,248.36
+172,US-2021-100172,2021-09-07,First Class,Maria Bertelson,Consumer,New York City,New York,United States,East,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,10245.87,14,0.4,1049.68
+173,US-2023-100173,2023-05-16,Same Day,Mohammed Al-Hassan,Home Office,Boston,Massachusetts,United States,East,Furniture,Chairs,Hon 5400 Series Task Chair,3292.27,7,0.0,-344.12
+174,US-2021-100174,2021-10-15,Second Class,Fatima Chen,Home Office,Memphis,Tennessee,United States,South,Furniture,Chairs,Hon 5400 Series Task Chair,7626.68,14,0.0,1726.95
+175,US-2022-100175,2022-07-08,Same Day,Claire Gute,Corporate,Seattle,Washington,United States,West,Furniture,Tables,Iceberg Nesting Folding Table,1084.89,2,0.4,241.25
+176,US-2021-100176,2021-12-01,Standard Class,Andrew Allen,Home Office,Detroit,Michigan,United States,Central,Technology,Phones,Apple iPhone 12,1367.56,2,0.4,523.65
+177,US-2023-100177,2023-01-01,Same Day,Seth Vernon,Corporate,San Francisco,California,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,3922.92,7,0.2,1133.45
+178,US-2021-100178,2021-10-04,Same Day,Andrew Allen,Corporate,Los Angeles,California,United States,West,Office Supplies,Pens,SAFCO Velcro Fastener,680.64,6,0.5,32.64
+179,US-2021-100179,2021-01-13,Same Day,Irene Maddox,Consumer,Seattle,Washington,United States,West,Office Supplies,Appliances,Fellowes PB500 Electric Punch,31.4,2,0.3,10.21
+180,US-2021-100180,2021-06-21,Second Class,Priya Sharma,Corporate,Detroit,Michigan,United States,Central,Furniture,Tables,Iceberg Nesting Folding Table,2132.34,11,0.5,-148.7
+181,US-2021-100181,2021-11-08,First Class,Zuschuss Donatelli,Corporate,Memphis,Tennessee,United States,South,Office Supplies,Binders,Cardinal Slant-D Ring Binder,303.67,4,0.5,-27.68
+182,US-2022-100182,2022-09-10,Same Day,Mohammed Al-Hassan,Corporate,Phoenix,Arizona,United States,West,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,4046.36,6,0.0,61.66
+183,US-2023-100183,2023-08-13,Same Day,Irene Maddox,Corporate,Jacksonville,Florida,United States,East,Office Supplies,Storage,"Fiskars 8"" Non-Stick Softgrip",372.35,10,0.4,18.9
+184,US-2021-100184,2021-05-23,Second Class,Irene Maddox,Home Office,Baltimore,Maryland,United States,East,Technology,Phones,Motorola Edge 5G,9653.15,8,0.4,2125.02
+185,US-2023-100185,2023-03-21,Standard Class,Kunst Miller,Corporate,Houston,Texas,United States,Central,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",3783.78,8,0.4,563.8
+186,US-2021-100186,2021-12-06,First Class,Andy Reiter,Home Office,Columbus,Ohio,United States,Central,Furniture,Chairs,Hon 5400 Series Task Chair,348.97,3,0.4,133.22
+187,US-2021-100187,2021-01-26,Second Class,Brosina Hoffman,Consumer,Atlanta,Georgia,United States,South,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,665.19,8,0.0,26.43
+188,US-2021-100188,2021-04-10,Second Class,Lela Donovan,Corporate,Atlanta,Georgia,United States,South,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,2720.24,6,0.5,113.07
+189,US-2023-100189,2023-01-29,Standard Class,Sean O'Donnell,Corporate,New Orleans,Louisiana,United States,South,Office Supplies,Binders,Ibico Multi-Punch,82.87,1,0.0,29.95
+190,US-2023-100190,2023-01-26,Same Day,Tamara Chand,Consumer,Baltimore,Maryland,United States,East,Furniture,Bookcases,O'Sullivan Plantations Bookcase,3297.11,8,0.4,222.79
+191,US-2022-100191,2022-07-04,Second Class,Lela Donovan,Home Office,Jacksonville,Florida,United States,East,Office Supplies,Binders,Ibico Multi-Punch,386.16,4,0.0,111.88
+192,US-2021-100192,2021-12-23,Same Day,Harold Pawlan,Corporate,Boston,Massachusetts,United States,East,Office Supplies,Binders,Cardinal Slant-D Ring Binder,447.24,9,0.4,77.31
+193,US-2022-100193,2022-03-05,Second Class,Irene Maddox,Home Office,Detroit,Michigan,United States,Central,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,1325.4,6,0.0,173.57
+194,US-2023-100194,2023-09-02,Second Class,Lela Donovan,Corporate,Baltimore,Maryland,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,1867.37,8,0.0,608.83
+195,US-2021-100195,2021-02-01,Same Day,Harold Pawlan,Consumer,Phoenix,Arizona,United States,West,Office Supplies,Labels,Avery 496 Brown Kraft Labels,616.47,11,0.0,-64.44
+196,US-2021-100196,2021-10-02,Same Day,Alejandro Grove,Consumer,Boston,Massachusetts,United States,East,Furniture,Bookcases,Sauder Classic Bookcase,7080.54,10,0.0,1168.24
+197,US-2021-100197,2021-12-23,Same Day,Priya Sharma,Consumer,Columbus,Ohio,United States,Central,Technology,Copiers,Canon imageCLASS MF8580Cdw,2234.37,2,0.0,217.52
+198,US-2023-100198,2023-04-14,First Class,Priya Sharma,Consumer,Phoenix,Arizona,United States,West,Furniture,Tables,Iceberg Nesting Folding Table,8384.21,14,0.0,2361.56
+199,US-2023-100199,2023-02-08,First Class,Sanjit Engle,Home Office,New York City,New York,United States,East,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,5691.84,12,0.0,-429.31
+200,US-2022-100200,2022-08-15,Second Class,Fatima Chen,Corporate,Atlanta,Georgia,United States,South,Technology,Accessories,Belkin USB Cable,1048.21,4,0.4,124.95
+201,US-2023-100201,2023-06-09,First Class,Nora Preis,Corporate,Detroit,Michigan,United States,Central,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,4591.66,12,0.3,780.93
+202,US-2021-100202,2021-12-12,Same Day,Kunst Miller,Home Office,Phoenix,Arizona,United States,West,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,5815.15,4,0.3,1777.05
+203,US-2021-100203,2021-01-01,Standard Class,Aisha Patel,Corporate,Baltimore,Maryland,United States,East,Office Supplies,Pens,SAFCO Velcro Fastener,13.74,2,0.0,1.27
+204,US-2022-100204,2022-10-03,First Class,Elena Petrov,Home Office,Nashville,Tennessee,United States,South,Furniture,Bookcases,Sauder Classic Bookcase,570.64,2,0.0,-69.34
+205,US-2022-100205,2022-12-14,Second Class,Andy Reiter,Corporate,Houston,Texas,United States,Central,Furniture,Chairs,Hon 5400 Series Task Chair,4534.54,8,0.5,-657.02
+206,US-2021-100206,2021-05-21,Second Class,Odella Nelson,Corporate,Chicago,Illinois,United States,Central,Furniture,Furnishings,Eldon Expressions Desk Accessories,5186.19,7,0.3,1735.01
+207,US-2022-100207,2022-09-23,Standard Class,Kunst Miller,Home Office,Nashville,Tennessee,United States,South,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,4408.82,10,0.0,1569.28
+208,US-2021-100208,2021-09-12,Same Day,Ravi Kumar,Consumer,Nashville,Tennessee,United States,South,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,2027.36,6,0.2,414.68
+209,US-2021-100209,2021-04-26,Second Class,Ravi Kumar,Home Office,Chicago,Illinois,United States,Central,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,1141.65,12,0.1,139.5
+210,US-2023-100210,2023-09-05,First Class,Hunter Lopez,Home Office,Jacksonville,Florida,United States,East,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,2303.87,3,0.0,620.89
+211,US-2022-100211,2022-02-16,Standard Class,Sean O'Donnell,Home Office,Los Angeles,California,United States,West,Furniture,Bookcases,Sauder Classic Bookcase,406.34,1,0.4,33.71
+212,US-2022-100212,2022-10-12,First Class,Hunter Lopez,Home Office,Denver,Colorado,United States,West,Furniture,Bookcases,Sauder Classic Bookcase,493.24,2,0.3,32.01
+213,US-2023-100213,2023-01-30,Second Class,Lela Donovan,Home Office,San Francisco,California,United States,West,Technology,Accessories,Logitech MX Master Mouse,2781.42,2,0.0,55.93
+214,US-2023-100214,2023-02-07,Same Day,Odella Nelson,Consumer,New York City,New York,United States,East,Furniture,Chairs,Hon 5400 Series Task Chair,4332.3,6,0.0,236.23
+215,US-2021-100215,2021-02-26,Standard Class,Ken Black,Consumer,Chicago,Illinois,United States,Central,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,69.32,5,0.5,9.08
+216,US-2022-100216,2022-04-29,Standard Class,Sanjit Engle,Consumer,Charlotte,North Carolina,United States,South,Furniture,Bookcases,Sauder Classic Bookcase,328.42,4,0.0,-5.09
+217,US-2021-100217,2021-05-03,First Class,Irene Maddox,Consumer,Detroit,Michigan,United States,Central,Furniture,Furnishings,Eldon Expressions Desk Accessories,2682.54,4,0.0,440.86
+218,US-2021-100218,2021-01-09,Standard Class,Aisha Patel,Consumer,Seattle,Washington,United States,West,Technology,Phones,Motorola Edge 5G,10445.97,8,0.0,1610.77
+219,US-2022-100219,2022-07-14,Same Day,Raymond Buch,Corporate,Houston,Texas,United States,Central,Office Supplies,Pens,SAFCO Velcro Fastener,563.1,6,0.1,142.38
+220,US-2022-100220,2022-01-21,First Class,Elena Petrov,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Binders,Avery Durable Slant Binders,1258.0,11,0.0,336.4
+221,US-2022-100221,2022-01-17,Standard Class,Maria Bertelson,Consumer,Chicago,Illinois,United States,Central,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",468.85,3,0.4,110.4
+222,US-2021-100222,2021-09-25,Same Day,Brosina Hoffman,Home Office,Atlanta,Georgia,United States,South,Technology,Accessories,Belkin USB Cable,1816.5,2,0.0,-35.92
+223,US-2021-100223,2021-06-18,Same Day,Mohammed Al-Hassan,Home Office,Detroit,Michigan,United States,Central,Technology,Machines,HP LaserJet 600 M602 Printer,1943.68,5,0.0,-125.41
+224,US-2022-100224,2022-12-15,Same Day,Lela Donovan,Corporate,New Orleans,Louisiana,United States,South,Furniture,Bookcases,Sauder Classic Bookcase,3895.18,5,0.2,1186.13
+225,US-2022-100225,2022-02-19,Same Day,Andrew Allen,Corporate,Seattle,Washington,United States,West,Furniture,Tables,Bevis Steel Folding Table,2925.44,9,0.0,-388.81
+226,US-2023-100226,2023-04-24,Standard Class,Tamara Chand,Home Office,Charlotte,North Carolina,United States,South,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,2334.69,13,0.1,-182.35
+227,US-2023-100227,2023-05-18,Standard Class,Andy Reiter,Home Office,Memphis,Tennessee,United States,South,Technology,Phones,Apple iPhone 12,1495.88,1,0.0,-148.71
+228,US-2021-100228,2021-08-08,Same Day,Nora Preis,Consumer,Chicago,Illinois,United States,Central,Furniture,Tables,Iceberg Nesting Folding Table,6815.53,14,0.4,-374.55
+229,US-2022-100229,2022-01-28,Second Class,Nora Preis,Corporate,Boston,Massachusetts,United States,East,Furniture,Chairs,Lesro Sheffield Series Lounge Chair,4596.17,11,0.0,-467.67
+230,US-2022-100230,2022-08-03,Standard Class,Andy Reiter,Consumer,Jacksonville,Florida,United States,East,Technology,Accessories,Belkin USB Cable,8286.45,7,0.5,324.98
+231,US-2023-100231,2023-02-25,Second Class,Irene Maddox,Corporate,Detroit,Michigan,United States,Central,Furniture,Bookcases,O'Sullivan Plantations Bookcase,718.4,1,0.5,101.43
+232,US-2023-100232,2023-05-10,Standard Class,Pete Kriz,Consumer,Philadelphia,Pennsylvania,United States,East,Technology,Accessories,Anker USB-C Hub,19431.99,13,0.4,877.21
+233,US-2023-100233,2023-04-10,Standard Class,Raymond Buch,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Pens,Staple-based Ink Pen Set,837.78,12,0.1,259.87
+234,US-2021-100234,2021-07-26,Standard Class,Irene Maddox,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Binders,Avery Durable Slant Binders,239.87,4,0.3,85.12
+235,US-2022-100235,2022-01-18,Second Class,Irene Maddox,Home Office,Boston,Massachusetts,United States,East,Office Supplies,Binders,Avery Durable Slant Binders,177.56,10,0.3,67.17
+236,US-2023-100236,2023-09-19,Second Class,Ken Black,Consumer,Charlotte,North Carolina,United States,South,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,1385.71,12,0.3,-75.09
+237,US-2023-100237,2023-03-01,First Class,Raymond Buch,Home Office,Houston,Texas,United States,Central,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",244.42,3,0.4,77.71
+238,US-2023-100238,2023-06-26,Standard Class,Ken Black,Home Office,Seattle,Washington,United States,West,Technology,Accessories,Belkin USB Cable,2031.46,8,0.3,-117.14
+239,US-2022-100239,2022-03-06,Standard Class,Claire Gute,Corporate,San Francisco,California,United States,West,Office Supplies,Paper,Hammermill Copy Plus Paper,30.88,6,0.4,2.81
+240,US-2021-100240,2021-03-17,Same Day,Ravi Kumar,Corporate,Jacksonville,Florida,United States,East,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,142.95,2,0.1,-8.65
+241,US-2022-100241,2022-09-21,First Class,Ken Black,Consumer,San Francisco,California,United States,West,Office Supplies,Binders,Avery Durable Slant Binders,40.88,3,0.0,1.47
+242,US-2021-100242,2021-11-01,Standard Class,Andy Reiter,Corporate,Atlanta,Georgia,United States,South,Furniture,Furnishings,Eldon Expressions Desk Accessories,1758.01,2,0.2,375.03
+243,US-2021-100243,2021-01-27,Standard Class,Elpida Pitt,Consumer,New York City,New York,United States,East,Technology,Copiers,Canon imageCLASS MF8580Cdw,333.2,6,0.5,-13.39
+244,US-2022-100244,2022-02-01,First Class,Zuschuss Donatelli,Home Office,Philadelphia,Pennsylvania,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,6253.77,13,0.0,1269.68
+245,US-2022-100245,2022-12-15,First Class,Sanjit Engle,Corporate,Boston,Massachusetts,United States,East,Furniture,Furnishings,Eldon Expressions Desk Accessories,2124.15,8,0.0,-142.06
+246,US-2021-100246,2021-08-30,Standard Class,Sanjit Engle,Home Office,Los Angeles,California,United States,West,Technology,Copiers,Canon imageCLASS MF8580Cdw,8558.25,14,0.5,1412.05
+247,US-2021-100247,2021-05-10,Standard Class,Elpida Pitt,Consumer,Memphis,Tennessee,United States,South,Technology,Phones,Nokia Smart Phone,9114.4,13,0.1,2685.59
+248,US-2022-100248,2022-07-24,Second Class,Kunst Miller,Consumer,Phoenix,Arizona,United States,West,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,1240.64,14,0.0,-126.71
+249,US-2021-100249,2021-06-01,Standard Class,Fatima Chen,Corporate,Charlotte,North Carolina,United States,South,Office Supplies,Labels,Avery 496 Brown Kraft Labels,1233.62,13,0.0,96.15
+250,US-2021-100250,2021-10-10,First Class,Priya Sharma,Home Office,Los Angeles,California,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,4318.48,7,0.5,-558.78
+251,US-2021-100251,2021-01-21,Same Day,Hunter Lopez,Home Office,Nashville,Tennessee,United States,South,Technology,Copiers,Canon imageCLASS MF8580Cdw,6307.47,6,0.2,2165.78
+252,US-2022-100252,2022-03-03,Second Class,Alejandro Grove,Corporate,Dallas,Texas,United States,Central,Office Supplies,Pens,SAFCO Velcro Fastener,282.04,3,0.3,-0.51
+253,US-2023-100253,2023-05-22,First Class,Harold Pawlan,Corporate,Seattle,Washington,United States,West,Office Supplies,Pens,Staple-based Ink Pen Set,175.64,14,0.4,-13.24
+254,US-2022-100254,2022-06-02,Standard Class,Ravi Kumar,Consumer,Seattle,Washington,United States,West,Furniture,Chairs,Hon 5400 Series Task Chair,3004.06,8,0.3,910.02
+255,US-2023-100255,2023-07-05,Same Day,Claire Gute,Home Office,Atlanta,Georgia,United States,South,Furniture,Bookcases,Bush Westfield Collection Bookcase,1407.47,3,0.3,-84.54
+256,US-2023-100256,2023-06-05,Second Class,Claire Gute,Corporate,Chicago,Illinois,United States,Central,Office Supplies,Binders,Avery Durable Slant Binders,402.84,14,0.4,53.3
+257,US-2022-100257,2022-01-21,First Class,Andy Reiter,Consumer,Phoenix,Arizona,United States,West,Furniture,Chairs,Hon 5400 Series Task Chair,3304.77,10,0.2,274.61
+258,US-2022-100258,2022-09-01,Same Day,Harold Pawlan,Corporate,Detroit,Michigan,United States,Central,Office Supplies,Storage,Avery 200-Pack Clear Sheet Protectors,811.71,10,0.3,128.9
+259,US-2022-100259,2022-06-14,First Class,Brosina Hoffman,Home Office,Dallas,Texas,United States,Central,Office Supplies,Binders,Cardinal Slant-D Ring Binder,884.99,11,0.2,-41.07
+260,US-2021-100260,2021-02-06,Standard Class,Elpida Pitt,Home Office,New York City,New York,United States,East,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,8483.1,11,0.4,539.11
+261,US-2021-100261,2021-05-12,First Class,Odella Nelson,Home Office,Boston,Massachusetts,United States,East,Furniture,Furnishings,"Howard Miller 13-3/4"" Diameter Goose Neck Clock",8669.42,14,0.2,-835.02
+262,US-2022-100262,2022-08-23,Second Class,Kunst Miller,Consumer,Columbus,Ohio,United States,Central,Office Supplies,Pens,SAFCO Velcro Fastener,320.13,6,0.3,17.42
+263,US-2023-100263,2023-05-25,Second Class,Seth Vernon,Consumer,Detroit,Michigan,United States,Central,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,5743.55,9,0.4,-690.75
+264,US-2021-100264,2021-07-01,Second Class,Ken Black,Consumer,Philadelphia,Pennsylvania,United States,East,Office Supplies,Labels,Avery 496 Brown Kraft Labels,85.76,6,0.3,16.9
+265,US-2022-100265,2022-02-18,Second Class,Nora Preis,Consumer,Chicago,Illinois,United States,Central,Office Supplies,Paper,Hammermill Copy Plus Paper,159.05,8,0.4,31.56
+266,US-2022-100266,2022-10-04,First Class,Claire Gute,Corporate,New Orleans,Louisiana,United States,South,Furniture,Tables,Iceberg Nesting Folding Table,700.62,1,0.0,155.69
+267,US-2021-100267,2021-10-25,Standard Class,Ravi Kumar,Home Office,Philadelphia,Pennsylvania,United States,East,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,87.56,7,0.0,1.23
+268,US-2023-100268,2023-07-30,Second Class,Maria Bertelson,Home Office,Charlotte,North Carolina,United States,South,Office Supplies,Appliances,Fellowes PB500 Electric Punch,547.58,6,0.0,203.4
+269,US-2022-100269,2022-10-18,Standard Class,Pete Kriz,Consumer,Atlanta,Georgia,United States,South,Technology,Accessories,Logitech MX Master Mouse,7817.19,10,0.0,440.54
+270,US-2021-100270,2021-06-06,Standard Class,Darrin Van Huff,Home Office,Columbus,Ohio,United States,Central,Technology,Phones,Samsung Galaxy S8,1050.14,1,0.2,116.48
+271,US-2023-100271,2023-03-15,Second Class,Lela Donovan,Corporate,New York City,New York,United States,East,Technology,Phones,Apple iPhone 12,8781.13,7,0.0,48.2
+272,US-2022-100272,2022-12-06,Second Class,Hunter Lopez,Consumer,Phoenix,Arizona,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,1933.13,6,0.5,677.94
+273,US-2022-100273,2022-10-22,Same Day,Claire Gute,Consumer,Memphis,Tennessee,United States,South,Furniture,Chairs,Hon 5400 Series Task Chair,2157.63,3,0.0,750.05
+274,US-2021-100274,2021-04-29,Second Class,Alejandro Grove,Corporate,Jacksonville,Florida,United States,East,Office Supplies,Binders,Avery Durable Slant Binders,1360.57,14,0.3,114.69
+275,US-2021-100275,2021-07-07,First Class,Fatima Chen,Consumer,Los Angeles,California,United States,West,Furniture,Tables,Bevis Steel Folding Table,2400.11,8,0.3,715.79
+276,US-2021-100276,2021-03-02,Same Day,Nora Preis,Corporate,Phoenix,Arizona,United States,West,Office Supplies,Appliances,Fellowes PB500 Electric Punch,314.33,13,0.0,73.21
+277,US-2022-100277,2022-05-15,Second Class,Elena Petrov,Corporate,New York City,New York,United States,East,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,6006.39,10,0.0,694.9
+278,US-2022-100278,2022-11-17,First Class,Darrin Van Huff,Corporate,Phoenix,Arizona,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,635.9,1,0.1,246.63
+279,US-2023-100279,2023-08-15,Second Class,Odella Nelson,Home Office,Columbus,Ohio,United States,Central,Technology,Phones,Motorola Edge 5G,4410.69,8,0.0,-633.35
+280,US-2022-100280,2022-01-23,Same Day,Fatima Chen,Corporate,Baltimore,Maryland,United States,East,Office Supplies,Paper,Hammermill Copy Plus Paper,64.74,6,0.1,9.89
+281,US-2022-100281,2022-02-27,Standard Class,Nora Preis,Consumer,Nashville,Tennessee,United States,South,Office Supplies,Labels,Avery 496 Brown Kraft Labels,1648.88,14,0.0,-154.25
+282,US-2023-100282,2023-05-15,Second Class,Claire Gute,Home Office,Denver,Colorado,United States,West,Furniture,Bookcases,O'Sullivan Plantations Bookcase,9452.2,11,0.0,2827.38
+283,US-2023-100283,2023-09-15,Same Day,Priya Sharma,Home Office,Memphis,Tennessee,United States,South,Technology,Copiers,Hewlett Packard LaserJet 3310 Copier,382.57,2,0.3,117.23
+284,US-2021-100284,2021-07-20,Second Class,Sanjit Engle,Home Office,Columbus,Ohio,United States,Central,Technology,Phones,Samsung Galaxy S8,2029.21,8,0.0,-20.58
+285,US-2022-100285,2022-04-07,First Class,Harold Pawlan,Corporate,New York City,New York,United States,East,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,155.65,2,0.0,42.75
+286,US-2021-100286,2021-06-27,Standard Class,Andrew Allen,Home Office,Charlotte,North Carolina,United States,South,Office Supplies,Binders,Ibico Multi-Punch,544.83,9,0.0,125.58
+287,US-2022-100287,2022-04-09,Same Day,Kunst Miller,Corporate,New York City,New York,United States,East,Technology,Machines,HP LaserJet 600 M602 Printer,13780.7,10,0.3,5288.62
+288,US-2022-100288,2022-10-28,Second Class,Hunter Lopez,Corporate,Philadelphia,Pennsylvania,United States,East,Technology,Machines,HP LaserJet 600 M602 Printer,1416.33,4,0.0,551.99
+289,US-2023-100289,2023-07-05,First Class,Odella Nelson,Home Office,Baltimore,Maryland,United States,East,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,6718.83,9,0.4,1483.75
+290,US-2022-100290,2022-12-01,Second Class,Maria Bertelson,Consumer,Detroit,Michigan,United States,Central,Furniture,Chairs,Chromcraft Bull-Nose Wood Table,243.92,1,0.0,95.36
+291,US-2022-100291,2022-07-29,Standard Class,Odella Nelson,Consumer,Houston,Texas,United States,Central,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,628.94,6,0.1,162.47
+292,US-2021-100292,2021-09-15,Same Day,Aisha Patel,Home Office,Nashville,Tennessee,United States,South,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,4578.15,7,0.0,-654.08
+293,US-2021-100293,2021-06-27,Second Class,Mohammed Al-Hassan,Corporate,Baltimore,Maryland,United States,East,Furniture,Bookcases,O'Sullivan Plantations Bookcase,3102.69,13,0.0,-146.33
+294,US-2023-100294,2023-08-09,Second Class,Lela Donovan,Consumer,Phoenix,Arizona,United States,West,Office Supplies,Labels,Avery 496 Brown Kraft Labels,129.04,3,0.0,-16.52
+295,US-2023-100295,2023-03-17,First Class,Priya Sharma,Consumer,Columbus,Ohio,United States,Central,Technology,Machines,HP LaserJet 600 M602 Printer,2373.69,2,0.0,323.61
+296,US-2023-100296,2023-04-24,Second Class,Tamara Chand,Home Office,Jacksonville,Florida,United States,East,Office Supplies,Binders,Cardinal Slant-D Ring Binder,155.04,4,0.5,61.73
+297,US-2022-100297,2022-07-08,Second Class,Sanjit Engle,Home Office,Los Angeles,California,United States,West,Office Supplies,Paper,Southworth 25% Cotton Rag Paper,110.33,1,0.0,6.87
+298,US-2021-100298,2021-06-21,Same Day,Mohammed Al-Hassan,Home Office,Chicago,Illinois,United States,Central,Office Supplies,Labels,Avery 496 Brown Kraft Labels,41.84,1,0.0,15.54
+299,US-2023-100299,2023-08-21,Same Day,Kunst Miller,Consumer,Los Angeles,California,United States,West,Technology,Accessories,Belkin USB Cable,2809.71,14,0.4,577.7
+300,US-2022-100300,2022-02-22,Standard Class,Nora Preis,Consumer,Seattle,Washington,United States,West,Technology,Machines,Lexmark MX611dhe Monochrome Laser Printer,257.38,2,0.1,90.35
