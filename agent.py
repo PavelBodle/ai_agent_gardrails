@@ -1,17 +1,3 @@
-"""
-agent.py — LangGraph agentic workflow
-======================================
-5 nodes, each mapped to a guardrail layer.
-
-Flow:
-  input_guard → generate_sql → sql_guard → execute → output_guard → END
-       │               │            │          │
-       └───────────────┴────────────┴──────────┴──→ error_node → END
-
-AgentState is passed through every node.
-operator.add on lists gives append semantics (LangGraph default is overwrite).
-"""
-
 import operator
 import time
 from typing import Annotated, Dict, List
@@ -31,7 +17,7 @@ from guardrails import (
     sanitize_error,
 )
 
-# ─── System prompt ────────────────────────────────────────────────────────────
+# ─── System prompt 
 
 SYSTEM_PROMPT = f"""You are a read-only SQL generator for a retail analytics database.
 
@@ -45,7 +31,7 @@ Rules:
 """
 
 
-# ─── State ────────────────────────────────────────────────────────────────────
+# ─── State ───
 
 class AgentState(TypedDict):
     # Core I/O
@@ -82,7 +68,7 @@ def initial_state(query: str, session_id: str) -> AgentState:
     )
 
 
-# ─── Nodes ────────────────────────────────────────────────────────────────────
+# ─── Nodes ───
 
 def node_input_guard(state: AgentState) -> dict:
     """Layer 1 — G1 Length, G2 Injection, G3 Rate Limit."""
@@ -183,13 +169,13 @@ def node_error(state: AgentState) -> dict:
     return {"trace": ["error"], "outcome": "BLOCKED"}
 
 
-# ─── Routing ──────────────────────────────────────────────────────────────────
+# ─── Routing ─
 
 def _route(state: AgentState, next_ok: str) -> str:
     return "error" if state.get("blocked") else next_ok
 
 
-# ─── Graph builder ────────────────────────────────────────────────────────────
+# ─── Graph builder 
 
 def build_graph(llm: ChatGoogleGenerativeAI):
     g = StateGraph(AgentState)
@@ -221,7 +207,7 @@ def build_graph(llm: ChatGoogleGenerativeAI):
     return g.compile()
 
 
-# ─── Main runner ──────────────────────────────────────────────────────────────
+# ─── Main runner ──
 
 def run_agent(query: str, session_id: str, llm) -> AgentState:
     """

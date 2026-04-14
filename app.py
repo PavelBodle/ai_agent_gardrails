@@ -35,13 +35,13 @@ def _api_key() -> str:
         return os.getenv("GEMINI_API_KEY", "")
 
 
-# ─── Header ───────────────────────────────────────────────────────────────────
+# ─── Header ─
 st.title("SQL Agent: Agentic System Guardrails")
 st.caption(
     f"Session `{st.session_state.session_id}` | Pavel Bodle "
 )
 
-# ─── Sidebar ──────────────────────────────────────────────────────────────────
+# ─── Sidebar 
 with st.sidebar:
     st.header("⚙️ Setup")
     api_key = _api_key()
@@ -235,7 +235,7 @@ with right:
         #     st.json(get_circuit_status())
 
 
-# ─── History ──────────────────────────────────────────────────────────────────
+# ─── History 
 if len(st.session_state.history) > 1:
     st.divider()
     with st.expander(f"📜 History ({len(st.session_state.history)} queries)"):
@@ -246,7 +246,7 @@ if len(st.session_state.history) > 1:
             st.markdown(f"{icon} **{h['query']}** - {rows} rows · {viols} violations")
 
 
-# ─── Footer ───────────────────────────────────────────────────────────────────
+# ─── Footer ─
 st.divider()
 st.markdown(
     """

@@ -1,7 +1,3 @@
-"""
-generate_data.py — Run once to create superstore_sales.csv
-Mirrors the schema of the famous Kaggle 'Sample - Superstore' dataset.
-"""
 import csv, random
 from datetime import datetime, timedelta
 

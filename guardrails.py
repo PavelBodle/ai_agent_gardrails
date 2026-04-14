@@ -1,17 +1,3 @@
-"""
-guardrails.py — All 13 guardrails in one file.
-===============================================
-Designed to be walkable in an interview: one import, one file, clear sections.
-
-5 LAYERS
---------
-Layer 1 — Input       : G1 Length  G2 Injection  G3 Rate Limit
-Layer 2 — SQL         : G4 SELECT-Only  G5 Schema  G6 Patterns  G7 Row Limit
-Layer 3 — Execution   : G8 Read-Only  G9 Timeout  G10 Circuit Breaker
-Layer 4 — Output      : G11 PII Mask  G12 Row Cap
-Layer 5 — Observability: G13 Audit Log
-"""
-
 import json
 import logging
 import re
@@ -24,9 +10,9 @@ from enum import Enum
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
-# ══════════════════════════════════════════════════════════════════════
+
 # SHARED DATA MODEL
-# ══════════════════════════════════════════════════════════════════════
+
 
 @dataclass
 class GuardResult:
@@ -41,9 +27,9 @@ class GuardResult:
                 "message": self.message, "severity": self.severity}
 
 
-# ══════════════════════════════════════════════════════════════════════
+
 # LAYER 1 — INPUT GUARDRAILS
-# ══════════════════════════════════════════════════════════════════════
+
 
 # --- G1: Length Validator -------------------------------------------
 MIN_LEN, MAX_LEN = 5, 400
@@ -133,9 +119,9 @@ def run_input_guards(text: str, session_id: str) -> List[GuardResult]:
     return results
 
 
-# ══════════════════════════════════════════════════════════════════════
+
 # LAYER 2 — SQL GUARDRAILS
-# ══════════════════════════════════════════════════════════════════════
+
 
 ALLOWED_TABLE   = "superstore_sales"
 ALLOWED_COLUMNS = {
@@ -262,9 +248,9 @@ def run_sql_guards(sql: str) -> Tuple[str, List[GuardResult]]:
     return sql, results
 
 
-# ══════════════════════════════════════════════════════════════════════
+
 # LAYER 3 — EXECUTION GUARDRAILS
-# ══════════════════════════════════════════════════════════════════════
+
 
 # G8 read-only connection lives in db.get_connection(read_only=True)
 # and is documented there. We reference it here for completeness.
@@ -386,9 +372,9 @@ def get_circuit_status() -> dict:
     return _circuit_breaker.status()
 
 
-# ══════════════════════════════════════════════════════════════════════
+
 # LAYER 4 — OUTPUT GUARDRAILS
-# ══════════════════════════════════════════════════════════════════════
+
 
 _EMAIL_RE = re.compile(r"\b([A-Za-z0-9._%+\-]+)@([A-Za-z0-9.\-]+\.[A-Za-z]{2,})\b")
 _PHONE_RE = re.compile(r"\b(\+?1[-.\s]?)?\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}\b")
@@ -452,9 +438,9 @@ def sanitize_error(raw: str) -> str:
     return msg[:200]
 
 
-# ══════════════════════════════════════════════════════════════════════
+
 # LAYER 5 — OBSERVABILITY
-# ══════════════════════════════════════════════════════════════════════
+
 
 Path("logs").mkdir(exist_ok=True)
 _audit = logging.getLogger("audit")

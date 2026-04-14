@@ -1,15 +1,3 @@
-"""
-db.py — Loads superstore_sales.csv into a SQLite database.
-
-Single table: superstore_sales
-Mirrors the famous Kaggle 'Sample - Superstore' dataset exactly.
-
-Schema exposed to the LLM (customer_name omitted — PII defence-in-depth):
-  row_id, order_id, order_date, ship_mode, segment,
-  city, state, country, region, category, sub_category,
-  product_name, sales, quantity, discount, profit
-"""
-
 import sqlite3
 import pandas as pd
 from pathlib import Path
@@ -17,7 +5,7 @@ from pathlib import Path
 DB_PATH  = "superstore.db"
 CSV_PATH = "superstore_sales.csv"
 
-# What the LLM is allowed to know about (customer_name intentionally excluded)
+# What the LLM is allowed to know about
 SCHEMA_FOR_LLM = """
 Table: superstore_sales
 
