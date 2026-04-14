@@ -4,7 +4,8 @@ Lightweight agentic system built on **LangGraph + Gemini/gemma-3-27b-it + Supers
 13 guardrails across 5 layers,all core guards in a single `guardrails.py` file.
 
 ## Streamlit App Demo
-Demo URL: 
+
+Demo URL: [https://searce-pavelbodle-demo.streamlit.app/](https://searce-pavelbodle-demo.streamlit.app/)
 
 ## 📁 Project Structure (6 files)
 
